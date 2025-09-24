@@ -26,5 +26,5 @@ Each guide is written to be **clear, practical, and easy to follow**.
 
 ## ✍🏽 Author  
 
-Maintained by **Koros** — passionate about technical writing and developer experience.  
+Maintained by **Koros** passionate about technical writing and developer experience.  
 
