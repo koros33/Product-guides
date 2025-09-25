@@ -1,7 +1,7 @@
 # 📘 Dev Product Guides  
 
 This repository includes **product and process guides** for both developers and end users.  
-Each guide is written to be **clear, practical, and easy to follow**.  
+Each guide is written to be **clear, practical, and easy to follow**.  I have incuded simple workflow for these projects with mermaid. 
 
 
 ## 📂 Guides  
@@ -26,5 +26,5 @@ Each guide is written to be **clear, practical, and easy to follow**.
 
 ## ✍🏽 Author  
 
-Maintained by **Koros** passionate about technical writing and developer experience.  
+Maintained by **Koros** passionate about technical writing and  developer & user experience.  
 
